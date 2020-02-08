@@ -1,0 +1,6 @@
+{
+    "authentication": "https://authserver.mojang.com/authenticate",
+    "versions": "https://launchermeta.mojang.com/mc/game/version_manifest.json",
+    "libraries": "https://libraries.minecraft.net",
+    "assets": "http://resources.download.minecraft.net"
+}

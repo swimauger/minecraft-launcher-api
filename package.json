@@ -1,0 +1,29 @@
+{
+  "name": "minecraft-launcher",
+  "version": "1.0.0",
+  "description": "Minecraft Launcher API",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {
+    "unzipper": "^0.10.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swimauger/minecraft-launcher.git"
+  },
+  "keywords": [
+    "Minecraft",
+    "Launcher"
+  ],
+  "author": "Mark Auger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/swimauger/minecraft-launcher/issues"
+  },
+  "homepage": "https://github.com/swimauger/minecraft-launcher#readme"
+}
