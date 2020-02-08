@@ -1,15 +1,13 @@
 {
   "name": "minecraft-launcher-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Minecraft Launcher API",
   "main": "index.js",
   "directories": {
     "lib": "lib"
   },
   "dependencies": {
-    "axios": "^0.19.2"
-  },
-  "devDependencies": {
+    "axios": "^0.19.2",
     "unzipper": "^0.10.8"
   },
   "repository": {
